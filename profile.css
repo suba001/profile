@@ -1,0 +1,23 @@
+#ho{
+    margin-left: 400px;
+    margin-top: 50px;
+ border:1px solid black;
+ width:500px;
+ height: 400px;
+ padding: 20px;
+ background-image: url('m46.avif');
+}
+td{
+    color: antiquewhite;
+   
+}
+#l{
+    margin-left: 100px;
+}
+input{
+    border-radius: 5px;
+    height: 30px;
+}
+h2{
+    color:azure;
+}
